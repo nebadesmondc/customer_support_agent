@@ -1,4 +1,4 @@
-# temp-agent
+# customer_support-agent
 
 Simple ReAct agent
 Agent generated with `agents-cli` version `0.5.0`
